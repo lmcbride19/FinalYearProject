@@ -1,0 +1,46 @@
+P Test 1 - Should be green 
+T 2008-09-09 22:35:24 
+Q security
+Q bomb
+Q terrorist
+Q alert
+L http://reuters.com/article/politicsnews/idusn2944356420080901?pagenumber=1&virtualbrandchannel=10112 
+L http://cbn.com/cbnnews/436448.aspx 
+L http://voices.washingtonpost.com/thefix/2008/09/bristol_palin_is_pregnant.html?hpid=topnews
+
+P Test 2 should be in Amber
+T 2008-09-09 22:35:24 
+Q danger
+Q president
+Q safety
+Q liability
+Q security
+Q bomb
+Q terrorist
+Q alert
+L http://reuters.com/article/politicsnews/idusn2944356420080901?pagenumber=1&virtualbrandchannel=10112 
+L http://cbn.com/cbnnews/436448.aspx 
+L http://voices.washingtonpost.com/thefix/2008/09/bristol_palin_is_pregnant.html?hpid=topnews
+
+P Test 3 should be in red
+T 2008-09-09 22:35:23
+Q security
+Q bomb
+Q terrorist
+Q alert
+Q danger
+Q president
+Q liability
+Q safeguards
+Q comfort
+Q confidence
+Q collateral
+Q protection
+Q vunerability
+Q defence
+Q protocol
+Q solidness
+Q dependability
+L http://reuters.com/article/politicsnews/idusn2944356420080901?pagenumber=1&virtualbrandchannel=10112 
+L http://cbn.com/cbnnews/436448.aspx 
+L http://voices.washingtonpost.com/thefix/2008/09/bristol_palin_is_pregnant.html?hpid=topnews
