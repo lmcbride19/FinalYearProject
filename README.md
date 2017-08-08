@@ -3,10 +3,12 @@ Files and Code related to My final Year Project
 
 Project : Memory Management in Big Data Applications
 
-Layout :
+Learning Layout :
 1. Spark Application via Scala for Regular expression Matching and ensuring no duplicates are found in Memetracker raw Datatsets *
-Basic Security Application checking how mnay buzzwords found within particular page, but can be applied more broadly than 
-that within Apache Spark but for the purpose of My Research it is sufficent 
+Basic Security Application checking how mnay buzzwords found within particular page, aswll As sentiment Analysis on the same code
+
+Research :
+1. Implement Machine Learning Algorithms via MLlib using SQLContext using relevant datasets
 
 2.Evaluate and Implemenmt Memory Management Techniques that can be used to optimise performance
 
@@ -14,13 +16,5 @@ that within Apache Spark but for the purpose of My Research it is sufficent
 
 Supervisor : Hans Variendonck
 
-* Citation
-@misc{snapnets,
-  author       = {Jure Leskovec and Andrej Krevl},
-  title        = {{SNAP Datasets}: {Stanford} Large Network Dataset Collection},
-  howpublished = {\url{http://snap.stanford.edu/data}},
-  month        = jun,
-  year         = 2014
-}
 
 
